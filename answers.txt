@@ -1,0 +1,39 @@
+1) pico - edit a file
+	ls - display directory
+	mkdir - make a directory
+	cd - change a directory
+2) config - set configuration parameters
+	clone - copy a repository
+	status - display the status of the current epository
+	add - adds changes
+	commit - makes changes permanent in the local repository
+	push - uploads changes in the local repository to the remote repository
+3) 	i. To ensure academic honesty, please include your sources (and the names of fellow students with whom 
+you brainstormed) as a separate document, to be submitted with each assignment.  
+If you have not collaborated with any one, this document should include the following statement: 
+I did not collaborate with anyone while working on this assignment.
+	ii. You can consult any available resources (printed or online) when doing homework assignments, except 
+generative AI tools, like ChatGPT. Always read and understand the material you find. Then put it aside and 
+start writing your own answer. This ensures that the work you submit is different enough that it becomes 
+your own. Similarly, you can discuss your ideas with your class mates for homework assignments. 
+However, do not do your homework with individuals outside of your group. You are welcome to use 
+concepts that were not covered in class, which you might already know or found online, but you must be 
+able to verbally explain your solution and show thorough understanding of the concepts you used, when 
+asked. 
+If you have not consulted any external sources, this document should include the following statement: 
+I did not consult any sources other than the textbook while working on this assignment. 
+	iii. 10% per day
+	iv. Regular class attendance is expected by the University and is the responsibility of the student. It is the 
+responsibility of the student to understand the attendance policy in each course he or she takes, as 
+outlined in each course syllabus. 
+When absent, students remain responsible for finding out what class activities occurred during the 
+absence and making up missed work if the instructor permits it. When a student knows in advance that it 
+will be necessary to miss a class session, the student should inform the instructor. 
+When a student has missed a significant portion of coursework, which may be difficult or impossible to 
+make up, the student should confer with the course instructor to explore options, including withdrawal or 
+late withdrawal from the course. The student also may consult with an Academic Adviser, the Dean of 
+Students or designee, or the Registrar's Office to consider various options. 
+Absences occasioned by official University activities, such as participation in conferences, intercollegiate 
+athletic events, musical performances, and other events, must be documented in advance through the 
+Office of the Dean of Student Affairs. A student that knows that such absences will occur shall confer with 
+the instructor in respect to such absences.
